@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Hello World! 
 
-# My name is *kaoryakani* 
+# My name is *karoyakani* 
 
 ### Markdown
 
